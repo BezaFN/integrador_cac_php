@@ -13,7 +13,6 @@
                     </div>
                     <input type="submit" class="btn btn-success text-center" value="LogIn"> 
                 </form>
-                <?php echo BASE_URL; ?>
                 <p>Usuario :Administrador </p>
                 <p>Contraseña: cac</p>
             </div>
